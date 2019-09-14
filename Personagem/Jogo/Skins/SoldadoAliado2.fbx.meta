@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 17cccf5c0894daf48b6a37643a570e93
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beardmat
+    second: {fileID: 2100000, guid: e1ffd19f58b76f04db723704071a567c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 98f1554975b2a134da73ca09c93761bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 68f60f19aed53754e8a7e6fff1951ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: cc0cda6377352e64aa470d2dbfa76d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hatmat
+    second: {fileID: 2100000, guid: 9d5363d5acfd909428b8c63009694ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moustachemat
+    second: {fileID: 2100000, guid: 424c17d8fe0ab334d8672a7c8a8f2c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 6f394a15a5bae4b4a89958e2ee378629, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 24b80de0c1c719743bc835ca227b56d1, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Beard_Diffuse
+    second: {fileID: 2800000, guid: 4a5f9405b20aed948a146e539df992db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Beard_Gloss
+    second: {fileID: 2800000, guid: 064226f89f984604fa0ab1e405beca1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Beard_Normal
+    second: {fileID: 2800000, guid: d730076f4ffbc4645a818f45ebe281f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Beard_Opacity
+    second: {fileID: 2800000, guid: ddc0d6281c1d4774db7e8c695dfb86f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Beard_Specular
+    second: {fileID: 2800000, guid: b4285bb93ed2b7e46b096bb31189844b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Body_Diffuse
+    second: {fileID: 2800000, guid: f4215b55c83475c44ae57fa2dcb67f34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Body_Gloss
+    second: {fileID: 2800000, guid: ca277d6d2d1204c44af39fe061ca5db4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Body_Normal
+    second: {fileID: 2800000, guid: 9f0fb527b0c4f8c40a0abf5357d8d5c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Body_Opacity
+    second: {fileID: 2800000, guid: 47289089004c3d94eb19a7b0f49bed3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Body_Specular
+    second: {fileID: 2800000, guid: 3250938f5f008054aa9d10c1dc1e2549, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 0f92de5f315bb3447a353cf0c6d3f4f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Bottom_Gloss
+    second: {fileID: 2800000, guid: b2d7068f639d23442b797d82b109c50c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Bottom_Normal
+    second: {fileID: 2800000, guid: df4f3887e817ce04ea76ce522e436902, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Bottom_Opacity
+    second: {fileID: 2800000, guid: 083352621cd805c40a4f892108dfcbb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Bottom_Specular
+    second: {fileID: 2800000, guid: 170eda9ca5b094b408c4775d84db977b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hair_Diffuse
+    second: {fileID: 2800000, guid: b0e8f3b136c75b5488d4e3dd0a11e9a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hair_Gloss
+    second: {fileID: 2800000, guid: f02123a0cc4d7d34086ccf849d4a131c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hair_Normal
+    second: {fileID: 2800000, guid: 7af35066df08a72409715cdd755798a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hair_Opacity
+    second: {fileID: 2800000, guid: 7231c7485a2b4954ca21bf25537fde6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hair_Specular
+    second: {fileID: 2800000, guid: 84d47c90032e5ba40a5291402de23d5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hat_Diffuse
+    second: {fileID: 2800000, guid: cade044cc1e1c6044a1e16b6d3ee4c34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hat_Gloss
+    second: {fileID: 2800000, guid: 30284437a79098c45b4378cd3c28d1ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hat_Normal
+    second: {fileID: 2800000, guid: d7eadfa32a83a444da84970738bc0504, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hat_Opacity
+    second: {fileID: 2800000, guid: 10349e69002d1154792a663ba05c49ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Hat_Specular
+    second: {fileID: 2800000, guid: 266f6c53964273c4a8704f57931bf0be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Moustache_Diffuse
+    second: {fileID: 2800000, guid: 60417d61d9eae1543b2101f3436dd3c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Moustache_Gloss
+    second: {fileID: 2800000, guid: 8a82edb82be61e34dbfcefcf106b1e9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Moustache_Normal
+    second: {fileID: 2800000, guid: 4981bfcca7ecf9446bfb64977f865aae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Moustache_Opacity
+    second: {fileID: 2800000, guid: 063e3f903ccffc548b6e925ca89d3275, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Moustache_Specular
+    second: {fileID: 2800000, guid: 42caaf27051b3a04bbeed3543f5c1758, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 7efa65d208c1d1446b612f7c85a014eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Shoes_Gloss
+    second: {fileID: 2800000, guid: 144ace205d862f74896a2743ecfb6c77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Shoes_Normal
+    second: {fileID: 2800000, guid: a150c0fec3445be45881b9cf21938362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Shoes_Opacity
+    second: {fileID: 2800000, guid: e7373888b920be64cb17d86dea4cb460, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Shoes_Specular
+    second: {fileID: 2800000, guid: 4ba6ec78a04c616468077e1c513e9ea0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Top_Diffuse
+    second: {fileID: 2800000, guid: 36c61c54471c0ed4b846405295bcd97b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Top_Gloss
+    second: {fileID: 2800000, guid: ecc816f129294d044aae0e76a7252657, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Top_Normal
+    second: {fileID: 2800000, guid: 630a258310e214b489f5b3ab2a0eb0e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Top_Opacity
+    second: {fileID: 2800000, guid: e28917d8972b83c4c82d4c297036eed9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SoldadoAliado2_Top_Specular
+    second: {fileID: 2800000, guid: df2ec6a0df27c8544b55c235c4c80389, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 2692672e06d474a449af884e6b984fe2
+  - 08ea5d87f81064d4b9049a14508dd438
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
